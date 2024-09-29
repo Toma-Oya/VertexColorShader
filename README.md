@@ -22,17 +22,23 @@ blenderで頂点カラーにより着色されたモデルをUnityで使用す�
 
 ![頂点カラーのみ](https://github.com/user-attachments/assets/ac243222-5eab-4f54-b369-707dcf7215ff)
 
+
+
 ### 頂点カラー＋ライティングの影響あり
 頂点カラーに加え、ライトの影響を受けるようにした状態でのプレビューです。  
 ノーマルマップ用の画像を指定することで、凹凸も表現できます。  
 
 ![頂点カラー＋ライト](https://github.com/user-attachments/assets/12fa077a-6a0e-4204-9621-43596e874171)
 
+
+
 ### 頂点カラー＋ライティングの影響あり＋マスク画像によるざらつき指定
 頂点カラー、ライトの影響に加えて、マスク画像による模様を指定した状態でのプレビューです。  
 筆で塗ったようなざらつきを表現できます。  
 
 ![頂点カラー＋ライト＋マスク](https://github.com/user-attachments/assets/c084b526-1d79-47b3-86b6-4ce339c3728a)
+
+
 
 Unity 2021.3.20f1で動作確認済み。  
 [比較に利用したモデル](https://sketchfab.com/3d-models/van-gogh-d828cf07eacd4f14bb48576731ec7833)
